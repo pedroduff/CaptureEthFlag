@@ -1,3 +1,5 @@
+# Contrato escolhido: https://capturetheether.com/challenges/lotteries/predict-the-future/
+
 # Resumo final
 O contrato tem várias vulnerabilidades porque:
 * Usa “random” que não é realmente aleatório
